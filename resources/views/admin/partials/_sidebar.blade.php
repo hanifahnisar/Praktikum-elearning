@@ -12,7 +12,7 @@
       
       <li class="nav-item">
         <a class="nav-link collapsed" href="#">
-          <i class="bi bi-backpack2"></i>
+          <i class="bi bi-file-person-fill"></i>
           <span>Student</span>
         </a>
       </li><!-- End Dashboard Nav -->
